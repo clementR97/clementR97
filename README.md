@@ -34,6 +34,7 @@ Passionate about **frontend, backend, databases, design and SEO**.
 ---
 [![](https://visitcount.itsvg.in/api?id=clementR97&icon=1&color=9)](https://visitcount.itsvg.in)
 
+<img src="images/coucher_pixel.png" alt="Mon image" width="100%"/>
 <!--
 ## Hi there 👋
 
