@@ -11,7 +11,7 @@ Passionate about **frontend, backend, databases, design and SEO**.
 ### - 📂 Flagship project: 
 -**SaaS car rental** — fleet management, reservations, billing(in development) **Backend** : [Node.js API](https://github.com/clementR97/CarLocationBackend.git) **Frontend** : [Angular](https://github.com/clementR97/frontendCarRent.git).
 
--**FaceSnap** - Instagram mini project with the angular conditions [FaceSnaps](https://github.com/clementR97/angular.git).
+-**SnapFace** - Instagram mini project with the angular conditions [SnapFace](https://github.com/clementR97/angular.git).
 
 -**CRUD** - Angular+NodeJS+Express+Mongodb Ebay mini project [CRUD](https://github.com/clementR97/Ebay.git) .
 
