@@ -21,7 +21,7 @@ Passionate about **frontend, backend, databases, design and SEO**.
 
 ### - 📫 Contact:
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>](https://www.linkedin.com/in//roland-971)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>](https://www.linkedin.com/in/roland-971)
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/>](mailto:clementroland52@gmail.com)
 
 # 📊 GitHub Stats:
