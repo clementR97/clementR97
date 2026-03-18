@@ -1,7 +1,7 @@
 ## 👋 Hey Everyone, I'm Clement
  <span style="color:#20eea7;font-size:24px">👨🏾‍💻 Welcome to my Github Universe! </span>
  
-I'm a full stack MERN and i create SaaS / dashboards and APIs for small businesses.
+I'm a full stack MERN and NextJS/TypeScript, i create SaaS / dashboards and APIs for small businesses.
 
 Passionate about **frontend, backend, databases, design and SEO**.
 
